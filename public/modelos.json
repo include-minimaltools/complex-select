@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Corolla",
+    "marca_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Camry",
+    "marca_id": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Mustang",
+    "marca_id": 2
+  },
+  {
+    "id": 4,
+    "nombre": "Civic",
+    "marca_id": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Accord",
+    "marca_id": 3
+  },
+  {
+    "id": 6,
+    "nombre": "Silverado",
+    "marca_id": 4
+  },
+  {
+    "id": 7,
+    "nombre": "Altima",
+    "marca_id": 5
+  },
+  {
+    "id": 8,
+    "nombre": "Sentra",
+    "marca_id": 5
+  }
+]
